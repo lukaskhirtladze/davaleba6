@@ -1,0 +1,47 @@
+.container{width: 1600px; text-align: center;}
+.body{padding-top: 120px}
+.logo{ float: left; margin-left: 140px;  }
+.ul{float: left; }
+.li{float: left; margin-right: 49px;}
+.li a{color: black; font-size: 16px}
+.h4{font-size: 22px; color: #FF7A00; margin-left: 172px; margin-bottom: 80px  }
+.nav{float: left; margin-left:120px; padding-top: 48px; }
+.header::after{content: ''; display: block; clear: both;}
+.nav::after{content: ''; display: block; clear: both;}
+.header{width: 100%; height: 120px; position: fixed; background-color: white; top: 0px; }
+.foto1{width: 636px; float: left;  }
+.foto2{width: 636px; float: right; }
+.foto3{width: 636px;  float: left;}
+.foto4{width: 636px; float: right;}
+.post1{  float: left; width: 636px; margin-left: 100px; margin-bottom: 64px}
+.post2{ float: right;width: 636px; margin-bottom: 64px }
+.post3{ float: left;width: 636px; margin-left: 100px; margin-bottom: 64px}
+.post4{ float: right;width: 636px; margin-bottom: 64px}
+.postwraper1::after{content: ''; clear: both;display: block;}
+.postwraper2::after{content: ''; clear: both;display: block;}
+.post1::after{content: ''; clear: both; display: block;}
+.post2::after{content: ''; clear: both;display: block;}
+.post3::after{content: ''; clear: both;display: block;}
+.post4::after{content: ''; clear: both;display: block;}
+.h2{margin-bottom: 50px; float: left; font-size: 36px; font-weight: bold;}
+.p{font-size: 16px;}
+.read{ font-size: 14px; color: #FF7A00; vertical-align: middle; }
+.read::after{ content:''; width:47px; height: 4px; background-color:#FF7A00; display: inline-block; margin-left:18px;  vertical-align: middle;}
+.load{width:190px; height:70px; background-color:#FF7A00; margin-left:705px; }
+.span{color: white; font-size:16px; margin-left:40px; margin-right: 40px; padding-top: 23px; margin-bottom: 24px  }
+.black{height: 226px;  background-color: black; margin-top: 160px; margin-bottom: 82px}
+.h5{font-weight: bold; font-size: 24px;}
+.company{float: left; margin-left: 50px}
+.compan{font-size:16px; color: #7B7B7B; }
+.li1{margin-top: 15px}
+.footer::after{content: ''; clear: both; display: block;  margin-bottom: 30px }
+.service{margin-left: 232px; float: left;}
+.Order{float: left; margin-left: 232px; margin-right: 232px}
+.america{float: left; margin-top: 13px  }
+.mastercard{float: left; margin-top:24px }
+.visa{float: left; margin-top: 24px }
+.payment::after{content: ''; display: block; clear: both; }
+.copy{float: right; margin-right:142px }
+.photowrap{height:382px; width: 100%; background-image: url(../img/fashion.jpg); background-repeat: no-repeat; margin-bottom:84px }
+.sp{color: white; font-size:22px; margin-left:647px; margin-right: 647px; padding-top:105px;   }
+.sp1{color: white; font-size:48px; margin-left:700px ; margin-right:700px;  ; margin-bottom:180px;  }
